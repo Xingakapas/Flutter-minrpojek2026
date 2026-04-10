@@ -1,3 +1,1 @@
-# flutterygbarulagi
-
-A new Flutter project.
+miniprojek juma dan kamis  9/10
